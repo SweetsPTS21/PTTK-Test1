@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="PTTK HTTT:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/PTTK_HTTT_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="PTTK HTTT/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="PTTK HTTT" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="mysql:mysql-connector-java:8.0.30" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
